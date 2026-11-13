@@ -1,1 +1,1 @@
-select e.name as emp, s.name as salary from Empl innerjuin Salr on e.id=s.id;
+select e.name as emp, s.name as salary from Empl inner join Salr on e.id=s.id;
