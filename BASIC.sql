@@ -1,1 +1,1 @@
-select * ferom Emprecs where Empame=='Deepak'
+select * from Emprecs where EmpName='Deepak'
